@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 6f07f325fdb88d947940644ae487b15b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -853,7 +853,7 @@ PlayerSettings:
   cloudProjectId: 70a5c81f-333a-48eb-8e32-924783c686f2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Project Sigils
   organizationId: rire101
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
